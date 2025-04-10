@@ -23,12 +23,14 @@ El objetivo del juego es encontrar todas las parejas de cartas iguales. Ideal pa
 6. Usa el botón **Reset Game** para reiniciar y mezclar las cartas.
 
 ## 📂 Estructura del proyecto
+```text
 memory-card-game/ 
-│ 
+│
 ├── index.html # Estructura principal. 
 ├── style.css # Estilos del juego.
 ├── script.js # Lógica del juego.
 └── README.md # Descripción del proyecto.
+```
 
 
 ## 👾 Captura de pantalla
